@@ -11,7 +11,7 @@ A full-stack Mini CRM application built with Django REST Framework, React, and M
 - Token Authentication
 
 ### Frontend
-- React (Vite)
+- React 
 - Axios
 - Recharts
 
